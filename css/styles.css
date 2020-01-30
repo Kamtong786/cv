@@ -1,0 +1,50 @@
+body {
+  background-color: #f0fff3;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 6px;
+  width: 7%;
+}
+
+h1 {
+  color: #66bfbf;
+  font-family: sans-serif, verdana;
+}
+
+h3 {
+  color: #66bfbf;
+  font-family: sans-serif, verdana;
+}
+
+a {
+  color: #66bfbf;
+}
+
+p {
+  color: #52616b;
+  font-family: sans-serif, verdana;
+}
+
+table {
+  color: #52616b;
+  font-family: sans-serif, verdana;
+}
+
+ul {
+  color: #52616b;
+  font-family: sans-serif, verdana;
+}
+
+ol {
+  color: #52616b;
+  font-family: sans-serif, verdana;
+}
+
+label {
+  color: #52616b;
+  font-family: sans-serif, verdana;
+}
